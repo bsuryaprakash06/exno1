@@ -23,9 +23,9 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 ```
 Name: B.Surya Prakash
-Registration Number: 212224230281
+Reg Number: 212224230281
 ```
-
+# DATA CLEANING
 
 ```
 import pandas as pd
@@ -94,6 +94,7 @@ x.fillna(method='bfill')
 ```
 ![image](https://github.com/user-attachments/assets/c55dfd92-7845-413d-a6ee-2d9023d595b6)
 
+# IQR(Inter Quartile Range)
 ```
 import pandas as pd
 x=pd.read_csv('iris.csv')
