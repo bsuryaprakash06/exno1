@@ -21,6 +21,10 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+```
+Name: B.Surya Prakash
+Registration Number: 212224230281
+```
 
 
 ```
